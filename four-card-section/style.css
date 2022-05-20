@@ -1,0 +1,139 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;  /* 10px / 16px = 62.5% */
+}
+
+.sdaf {
+    box-sizing: border-box;
+}
+
+.body {
+    background-image: linear-gradient(
+        to bottom right,
+        rgba(47, 47, 48, .6), 
+        rgba(33, 32, 34, 1)
+      ), 
+      url('https://source.unsplash.com/collection/190727/1600x900');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    *height: 100vh;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 50px auto;   
+    background-color: transparent;
+    font-family: 'Poppins', 'Sans-serif';
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding-bottom: .5rem;
+}
+
+header {
+    text-align: center;
+    padding: 20px; 
+    max-width: 500px;
+    margin: 0 auto; 
+}
+
+header p {
+    font-size: 1.5rem; 
+    padding-top: 2rem; 
+}
+
+header span {
+    display: block;
+    font-size: 3rem; 
+    font-weight: 600;
+}
+
+.card-items {
+    padding: 6rem;  
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.card-items p {
+    font-size: 1.2rem;
+}
+
+.card-icon {
+    padding: 20px; 
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mid-col {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    justify-content: space-between;   
+}
+
+.supervisor { 
+    flex: 1; 
+    border-top: 5px solid hsl(212, 86%, 64%);  
+    box-shadow: 0px 8px 5px 2px rgb(206, 201, 201); 
+    text-align: left;
+    padding: 2rem 2rem; 
+    margin-right: 2rem;
+}
+
+.builder {
+    flex: 1; 
+    margin-bottom: 2rem;
+    border-top: 5px solid hsl(0, 78%, 62%); 
+    box-shadow: 0px 8px 5px 2px rgb(206, 201, 201);
+    text-align: left;
+    padding: 2rem 2rem; 
+}
+
+.karma {
+    flex: 1; 
+    border-top: 5px solid hsl(34, 97%, 64%);    
+    box-shadow: 0px 8px 5px 2px rgb(206, 201, 201);
+    text-align: left;
+    padding: 2rem 2rem; 
+    margin-bottom: 2rem;
+}
+
+.calculator {
+    flex: 1; 
+    border-top: 5px solid hsl(180, 62%, 55%);   
+    box-shadow: 0px 8px 5px 2px rgb(206, 201, 201);
+    text-align: left;
+    padding: 2rem 2rem; 
+    margin-left: 2rem;
+}
+
+@media only screen and (max-width: 500px) {
+    .card-items {
+        flex-direction: column;
+        justify-content: center;
+        align-items: stretch;
+    }
+
+    .supervisor {
+        margin-right: 0;
+        margin-bottom: 2rem; 
+    }
+
+    .calculator {
+        margin-left: 0; 
+    }
+}
