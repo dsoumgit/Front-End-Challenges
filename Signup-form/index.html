@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="description" content="Landing page for mentor io">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">  
+  <title>Frontend Mentor | Intro component with sign up form</title>
+
+</head>
+<body>
+
+  <div class="wrapper">
+    <div class="form">
+      <div class="form-left">
+        <h1>Learn to code by watching others</h1>
+        <p>See how experienced developers solve problems in real-time. Watching scripted tutorials is great, 
+          but understanding how developers think is invaluable. </p>
+      </div>
+      <div class="form-right">
+        <div class="form-heading">
+          <p>Try it free 7 days then $20/mo. thereafter</p>
+        </div>
+        <div class="form-body">
+            <div class="form-input">
+              <input type="text" id="fname" aria-label="First Name" placeholder="First Name">
+                <img src="images/icon-error.svg" alt="Icon error" class="icon-error fname" />
+                <span class="error fname">First name cannot be empty</span>
+              </input>
+            </div>
+            <div class="form-input">
+              <input type="text" id="lname" aria-label="Last Name" placeholder="Last Name">
+                <img src="images/icon-error.svg" alt="Icon error" class="icon-error lname" />
+                <span class="error lname">Last name cannot be empty</span>
+              </input>
+            </div>
+            <div class="form-input">
+              <input type="text" id="email" aria-label="Email" placeholder="Email Address">
+                <img src="images/icon-error.svg" alt="Icon error" class="icon-error email" />
+                <span class="error email">First name cannot be empty</span>
+              </input>
+            </div>
+            <div class="form-input">
+              <input type="password" id="password" aria-label="Password" placeholder="Password">
+                <img src="images/icon-error.svg" alt="Icon error" class="icon-error password" />
+                <span class="error password">Password cannot be empty</span>
+              </input>
+            </div>
+            
+            <button type="submit" class="btn" aria-label="Submit" onclick="submit()">Claim Your Free Trial</button>
+        
+          <div class="term">
+            <p>By clicking the button, you are agreeing to our <a href="#" class="term-link">Terms and Services</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="validation.js" async></script>
+</body>
+</html>

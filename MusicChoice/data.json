@@ -1,0 +1,225 @@
+{
+  "Items": [
+    {
+      "ReleaseTrackId": "169560",
+      "CompWorkId": 165711,
+      "ActId": 26388,
+      "ReleaseYear": 2015,
+      "TvRatingId": 5,
+      "TvRating": "TV-14",
+      "Duration": 210.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Power Of Positive Drinkin'",
+        "Line3": "Buy Me A Boat (2015)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/f07c48b7-38fa-4646-9a54-e125e702eb5b_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/f07c48b7-38fa-4646-9a54-e125e702eb5b_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "169989",
+      "CompWorkId": 166131,
+      "ActId": 26388,
+      "ReleaseYear": 2016,
+      "ReleaseDate": "7/1/2016",
+      "TvRatingId": 4,
+      "TvRating": "TV-PG",
+      "Duration": 179.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Buy Me A Boat",
+        "Line3": "Buy Me A Boat (2016)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/4b4704f1-19b0-4c24-9a12-f80702ed4b1c_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/4b4704f1-19b0-4c24-9a12-f80702ed4b1c_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "173342",
+      "CompWorkId": 169428,
+      "ActId": 26388,
+      "ReleaseYear": 2016,
+      "ReleaseDate": "7/1/2016",
+      "TvRatingId": 4,
+      "TvRating": "TV-PG",
+      "Duration": 300.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Holdin' Her",
+        "Line3": "Buy Me A Boat (2016)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/6393fd0e-40ed-417d-b8c2-7fc4d6a13c14_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/6393fd0e-40ed-417d-b8c2-7fc4d6a13c14_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "190200",
+      "CompWorkId": 186182,
+      "ActId": 26388,
+      "ReleaseYear": 2017,
+      "ReleaseDate": "7/1/2017",
+      "TvRatingId": 5,
+      "TvRating": "TV-14",
+      "Duration": 186.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Fix A Drink",
+        "Line3": "Fix A Drink (2017)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/fe6397ab-94bd-432f-bf4c-9ddf9d27c13c_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/fe6397ab-94bd-432f-bf4c-9ddf9d27c13c_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "221481",
+      "CompWorkId": 218371,
+      "ActId": 26388,
+      "ReleaseYear": 2018,
+      "ReleaseDate": "7/1/2018",
+      "TvRatingId": 4,
+      "TvRating": "TV-PG",
+      "Duration": 229.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Drunk Girl",
+        "Line3": "EVERYBODY (2018)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/aee8b4f6-bc50-4042-a3b3-80f2e3f7328b_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "221686",
+      "CompWorkId": 218600,
+      "ActId": 26388,
+      "ReleaseYear": 2013,
+      "ReleaseDate": "7/1/2013",
+      "TvRatingId": 5,
+      "TvRating": "TV-14",
+      "Duration": 205.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Better I Don't",
+        "Line3": "Better I Don't (2013)",
+        "Line4": "Bigger Picture Group"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/1d1eea77-3857-4370-9490-6ac7de9bdfba_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/1d1eea77-3857-4370-9490-6ac7de9bdfba_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "371274",
+      "CompWorkId": 370802,
+      "ActId": 26388,
+      "ReleaseYear": 2019,
+      "ReleaseDate": "7/1/2019",
+      "TvRatingId": 4,
+      "TvRating": "TV-PG",
+      "Duration": 167.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Good Vibes",
+        "Line3": "Good Vibes (2019)",
+        "Line4": "Warner Bros. Records"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/136bfafa-a985-4ece-bfb6-98d74bcbe49d_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        }
+      ],
+      "TrackNumber": 0
+    },
+    {
+      "ReleaseTrackId": "387196",
+      "CompWorkId": 387392,
+      "ActId": 26388,
+      "ReleaseYear": 2019,
+      "ReleaseDate": "7/1/2019",
+      "TvRatingId": 4,
+      "TvRating": "TV-PG",
+      "Duration": 221.0,
+      "Ttla": {
+        "Line1": "Chris Janson",
+        "Line2": "Done",
+        "Line3": "Real Friends (2019)",
+        "Line4": "Warner Music Nashville"
+      },
+      "ImageUrls": [
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/c5a703ef-6ffc-4434-bf0d-3ba643b7e13b_360_640_VideoStill.jpg",
+          "Height": 360.0,
+          "Width": 640.0
+        },
+        {
+          "ImageUrl": "http://az320056.vo.msecnd.net/uploadedmedia/image/c5a703ef-6ffc-4434-bf0d-3ba643b7e13b_158_280_VideoStill.jpg",
+          "Height": 158.0,
+          "Width": 280.0
+        }
+      ],
+      "TrackNumber": 0
+    }
+  ]
+}

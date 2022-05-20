@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Music Choice</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script type="text/javascript" src="data.json"></script>
+    
+</head>
+<body>
+    <div id="container"></div>
+
+    <script>
+        const xmlhttp = new XMLHttpRequest();
+
+        xmlhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            let response = JSON.parse(this.responseText);
+            let items = response.Items; 
+
+            items.map(function (item, index) {
+                document.getElementById('container').innerHTML += 
+                    `<div class="item ${index===2 ? 'active': ''}">
+                        <div class="item__image">
+                            <img src=${item.ImageUrls[0].ImageUrl} class="photo" />
+                        </div>
+                        <div class="item__display">
+                            <h2>&quot;${item.Ttla.Line2}&quot;</h2>
+                            <p>${item.Ttla.Line1}</p>
+                        </div>
+                        <div class="item__rating">
+                            <h3>${item.TvRating}</h3>
+                        </div>
+                        <div class="row"></div>
+                    </div>`;
+            });
+          } 
+        };
+
+        xmlhttp.overrideMimeType("application/json");
+        xmlhttp.open("GET", "data.json", true);
+        xmlhttp.send();
+        </script>
+
+</body>
+
+</html>
