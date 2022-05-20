@@ -1,5 +1,5 @@
 # Front-End-Challenges
-This repo stores all the work that are related to front end exercises and coding challenges. I use websites like https://frontendeval.com/ and https://www.frontendmentor.io/ to develop UI components using front end technologies and React JS. 
+I personally design and create this repo to store all my work that are relevant to front end coding challenges. I have obtained these exercises or challenges from various website such as https://frontendeval.com/ and https://www.frontendmentor.io/ in order to develop UI components using front end technologies and React JS. I will update and add it accordingly as the time goes.  
 
 ## 1. FAQ
 The FAQ component is built using HTML5 elements and React JS. 
