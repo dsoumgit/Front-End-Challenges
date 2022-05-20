@@ -18,4 +18,4 @@ I have received the requirements from one of the jobs that I applied in the past
 
 ## 4. Sign Up Form
 Built this HTML module from the requirements that's provided by Frontend Mentor. 
-![Screen Shot 2022-05-20 at 2 01 13 PM](https://user-images.githubusercontent.com/6641061/169586831-04dfb629-06b1-4b7c-bc70-6b42aabf9949.png)
+![Screen Shot 2022-05-20 at 2 09 22 PM](https://user-images.githubusercontent.com/6641061/169587813-9ebccd59-7799-443e-8083-bfee40322027.png)
