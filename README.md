@@ -11,3 +11,9 @@ Resource: https://frontendeval.com/
 This UI component is built using semantic HTML and CSS. It is responsive according to the spec provided by Front End Mentor site.
 Resource: https://www.frontendmentor.io/
 ![Screen Shot 2022-05-20 at 11 26 38 AM](https://user-images.githubusercontent.com/6641061/169561774-69f7c93c-c308-4035-a8be-0dc4dd342357.png)
+
+## 3. Music Choice
+I have received the requirements from one of the jobs that I applied in the past as the coding challenge. 
+![Screen Shot 2022-05-20 at 2 00 47 PM](https://user-images.githubusercontent.com/6641061/169586809-ae8c739e-5ff2-4176-a69a-28ad316126c0.png)
+
+## 4. Sign Up Form
