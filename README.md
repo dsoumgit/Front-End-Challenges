@@ -14,8 +14,9 @@ Resource: https://www.frontendmentor.io/
 
 ## 3. Music Choice
 I have received the requirements from one of the jobs that I applied in the past as the coding challenge. 
+
 ![Screen Shot 2022-05-20 at 2 00 47 PM](https://user-images.githubusercontent.com/6641061/169586809-ae8c739e-5ff2-4176-a69a-28ad316126c0.png)
 
 ## 4. Sign Up Form
-Built this HTML module from the requirements that's provided by Frontend Mentor. 
+Built this HTML module from the requirements that's provided by Frontend Mentor. The component is built to be responsive for different devices.
 ![Screen Shot 2022-05-20 at 2 09 22 PM](https://user-images.githubusercontent.com/6641061/169587813-9ebccd59-7799-443e-8083-bfee40322027.png)
