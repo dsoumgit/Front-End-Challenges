@@ -20,3 +20,8 @@ I have received the requirements from one of the jobs that I applied in the past
 ## 4. Sign Up Form
 Built this HTML module from the requirements that's provided by Frontend Mentor. The component is built to be responsive for different devices.
 ![Screen Shot 2022-05-20 at 2 09 22 PM](https://user-images.githubusercontent.com/6641061/169587813-9ebccd59-7799-443e-8083-bfee40322027.png)
+
+## 5. Covid-19 Single Page Dashboard
+Develop a COVID-19 dashboard that displays the data about patients who have affected by COVID-19, number of ventilator available within specific zip code in PA area. The data is shown in the table for the past four weeks and user can filter the date range if they want to see more historical data.
+
+![EPD_Dashboard](https://user-images.githubusercontent.com/6641061/174089384-e0db30d1-156b-4b53-a2bf-238ff878ca7e.JPG)
