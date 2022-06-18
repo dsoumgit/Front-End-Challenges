@@ -21,7 +21,7 @@ I have received the requirements from one of the jobs that I applied in the past
 Built this HTML module from the requirements that's provided by Frontend Mentor. The component is built to be responsive for different devices.
 ![Screen Shot 2022-05-20 at 2 09 22 PM](https://user-images.githubusercontent.com/6641061/169587813-9ebccd59-7799-443e-8083-bfee40322027.png)
 
-## 5. Challenger Mission Management
+## 5. Challenger Mission Management System
 Develop a mission management system to allow the headquarters to input and aggregate data about center's missions and to receive feedback from programs' participants.
 The application allows the headquarters to see the reports about number of students who have participated in different missions and STEM education on interactive charts. It provides a way to filter based on each mission and group by date or any other filter item based on the user needs.  
 
