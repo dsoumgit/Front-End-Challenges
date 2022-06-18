@@ -1,4 +1,4 @@
-# Front-End-Challenges
+# Projects & Front-End-Challenges
 I personally design and create this repo as a way to store all my work that are relevant to front end coding challenges, exercises, and UI problems from jobs that I have applied until present. I have obtained these exercises or challenges from various website such as https://frontendeval.com/ and https://www.frontendmentor.io/ in order to develop UI components using front end technologies and React JS. I will update and add it accordingly as the time goes.  
 
 ## 1. FAQ
