@@ -24,6 +24,7 @@ Built this HTML module from the requirements that's provided by Frontend Mentor.
 ## 5. Challenger Mission Management
 Develop a mission management system to allow the headquarters to input and aggregate data about center's missions and to receive feedback from programs' participants.
 The application allows the headquarters to see the reports about number of students who have participated in different missions and STEM education on interactive charts. It provides a way to filter based on each mission and group by date or any other filter item based on the user needs.  
+
 ![Screen Shot 2022-06-18 at 8 08 29 AM](https://user-images.githubusercontent.com/6641061/174437280-6797c50d-2498-4b6e-848c-576036928546.png)
 
 ## 6. Covid-19 Single Page Dashboard
